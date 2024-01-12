@@ -1,3 +1,3 @@
 # stepik_auto_tests_course
-my homework
+my homework.
 Планирую сохранять здесь все изменения в течении курса по автоматизации тестирования.
